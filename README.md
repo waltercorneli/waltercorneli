@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile!
 
-🚀 I work with Angular, React, Unity, and Java Spring  
+🚀 I work with Angular, React, Unity, and NextJS  
 🎧 I studied Digital Audiovisual Composition at the Conservatory of Frosinone  
 🌐 I love building immersive XR experiences and generative art  
 
